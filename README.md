@@ -1,2 +1,1 @@
-# ArdaKurt
-About Me
+
