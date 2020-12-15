@@ -1,5 +1,5 @@
 
-### Hey,[Arda here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+### Hey,[Arda here!]
 <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet">
 
 
