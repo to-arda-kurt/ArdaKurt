@@ -1,6 +1,6 @@
 
 ### Hey,[Arda here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
-
+<img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet">
 
 
 Welcome to my very young GitHub page. I am career changer after 33. I have been worked Photography, Graphic Design, UI and Web Design for 10+ years. I am still doing for living. I would like to go further and build a future with my desire Frontend job at very beginning. I am looking for my inspirational pathfinder mentor to help me exciting journey.
