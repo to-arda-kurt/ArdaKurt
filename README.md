@@ -7,7 +7,7 @@ Welcome to my very young GitHub page. I am career changer after 33. I have been 
 
 ## :pen: Technologies I'm Learning
 * React
-* NodeJS
+* Node.js
 * JS
 * HTML/CSS/SASS
 * Frontend and Backend Web Development
