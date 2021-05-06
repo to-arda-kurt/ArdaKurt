@@ -17,7 +17,7 @@ Welcome to my very young GitHub page. I am career changer after 33. I have been 
 ## Who am I
 33. Gamer. Drawing. Living London. From Turkey. Engineer. Photographer. 
 
-## Tech
+## Langs
 <img src = 'https://github.com/to-arda-kurt/ArdaKurt/blob/main/images/html.svg' width='30'/> <img 
 src = 'https://github.com/to-arda-kurt/ArdaKurt/blob/main/images/css.svg' width='30'/> <img 
 src = 'https://github.com/to-arda-kurt/ArdaKurt/blob/main/images/js.svg' width='30'/> <img 
