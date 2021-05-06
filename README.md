@@ -5,12 +5,12 @@ Welcome to my very young GitHub page. I am career changer after 33. I have been 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arda%20Kurt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/korayardakurt/)](https://www.linkedin.com/in/korayardakurt/) [![Gmail Badge](https://img.shields.io/badge/-to.arda.kurt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:to.arda.kurt@gmail.com)](mailto:to.arda.kurt@gmail.com) <img src="https://komarev.com/ghpvc/?username=to-arda-kurt" alt="Arda Kurt" />
 
-## :pen: Technologies I'm Learning
-* React
-* Node.js
-* JS
-* HTML/CSS/SASS
-* Frontend and Backend Web Development
+## :pen: Bucket List for 2021
+* Complete front-end React project. (3 Projects)
+* Complete full-stack React.JS and Node.js project. (2 Projects)
+* Learn Django
+* Learn React Native or SwiftUI
+* Land very first development job.
 
 
 
